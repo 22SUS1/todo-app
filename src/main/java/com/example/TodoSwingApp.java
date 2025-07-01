@@ -29,7 +29,7 @@ public class TodoSwingApp {
     }
 
     private void initialize() {
-        frame = new JFrame("To-Do List Application");
+        frame = new JFrame("Менеджер задач");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(800, 600);
         frame.setLayout(new BorderLayout());
